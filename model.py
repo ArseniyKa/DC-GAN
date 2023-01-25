@@ -6,6 +6,7 @@ Network Architectures
 The following are the discriminator and generator architectures
 """
 
+
 class discriminator(nn.Module):
     def __init__(self):
         super(discriminator, self).__init__()
